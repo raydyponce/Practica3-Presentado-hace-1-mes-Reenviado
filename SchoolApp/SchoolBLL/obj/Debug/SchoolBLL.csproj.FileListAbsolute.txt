@@ -1,0 +1,13 @@
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.CoreCompileInputs.cache
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.dll
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.pdb
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.dll
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.dll
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.pdb
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll.config
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.pdb
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.xml
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.dll
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.pdb

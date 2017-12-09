@@ -1,0 +1,6 @@
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.csproj.CoreCompileInputs.cache
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolEntities\bin\Debug\SchoolEntities.dll
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolEntities\bin\Debug\SchoolEntities.pdb
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.dll
+D:\ProyectosVisual\CAP2\SchoolApp\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.pdb
